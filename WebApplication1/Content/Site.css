@@ -1,0 +1,70 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    /*pick and choose from these fonts*/
+    /*font-family: 'Allura', cursive;*/ /*for STEMMA only*/
+    /*font-family: 'Marmelad', sans-serif;*/ /*for text*/
+    /*font-family: 'Kite One', sans-serif;*/ /*for non-stemma titles*/
+    /*pick and choose from these colors*/
+    /*#357735*/ /*forest green*/
+    /*#3c2828*/ /*brown*/
+    /*#fffda5*/ /*yellow*/
+    /*#e9d2ff*/ /*light eggplant*/
+    /*#563577*/ /*eggplant*/
+    /*#daf7a6*/ /*light green*/
+    /*#FFC5EC*/ /*pink*/
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Marmelad', sans-serif;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/*.boxOne {
+    font-family: 'Dosis', sans-serif;
+}
+
+
+.boxTwo {
+    font-family: 'Amaranth', sans-serif;
+}
+
+.boxThree {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.boxFour {
+    font-family: 'Marmelad', sans-serif;
+}
+
+.boxFive {
+    font-family: 'Kite One', sans-serif;
+}
+
+.boxSix {
+    font-family: 'Port Lligat Sans', sans-serif;
+}*/
+
+.kiteOneFont {
+    font-family: 'Kite One', sans-serif;
+}
+
+.alluraFont {
+    font-family: 'Allura', cursive;
+}
