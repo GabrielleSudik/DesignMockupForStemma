@@ -6,12 +6,12 @@
     /*font-family: 'Marmelad', sans-serif;*/ /*for text*/
     /*font-family: 'Kite One', sans-serif;*/ /*for non-stemma titles*/
     /*pick and choose from these colors*/
-    /*#357735*/ /*forest green*/
+    /*#288D28*/ /*forest green*/
     /*#3c2828*/ /*brown*/
     /*#fffda5*/ /*yellow*/
     /*#e9d2ff*/ /*light eggplant*/
-    /*#563577*/ /*eggplant*/
-    /*#daf7a6*/ /*light green*/
+    /*#3c2828*/ /*eggplant*/
+    /*#fcf8e3*/ /*light green*/
     /*#FFC5EC*/ /*pink*/
 }
 
@@ -62,6 +62,10 @@ textarea {
 }*/
 
 .kiteOneFont {
+    font-family: 'Kite One', sans-serif;
+}
+
+h1, h2, h3, h4 {
     font-family: 'Kite One', sans-serif;
 }
 
