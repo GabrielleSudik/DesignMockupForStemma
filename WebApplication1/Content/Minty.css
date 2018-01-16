@@ -5102,7 +5102,9 @@ tbody.collapse.show {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
     background-color: #3c2828;
+    border: 5px;
     border-radius: 0.3rem;
+    border-color: #FFC5EC;
 
 }
 
